@@ -1,0 +1,7 @@
+* {
+	--introducing-bg: url("/freemc/assets/imgs/introducing-home.webp");
+	--stat-activeusers-bg: url("/freemc/assets/imgs/active-users.webp");
+	--stat-activeservers-bg: url("/freemc/assets/imgs/active-servers.webp");
+	--stat-registeredusers-bg: url("/freemc/assets/imgs/registered-users.webp");
+	--parallax-bg: url("/freemc/assets/imgs/parallax.webp");
+}
